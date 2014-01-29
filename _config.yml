@@ -20,6 +20,27 @@ navigation:
 - text: Videos
   url: /videos
 speakers:
+  deon_moolman:
+    name: Deon Moolman
+    company: Yuppiechef
+    role: Lead Developer
+    country: South Africa
+    twitter: CmdrDats
+    bio: >
+        is a senior software developer at Yuppiechef.co.za, the leading e-commerce
+        store in South Africa. He is a technology enthusiast, loves programming
+        concepts and languages and has spent 14 years in development on websites,
+        mobile applications, payment switches, warehouse systems, desktop software
+        and development tooling. Occasionally spotted with an Arduino in the one
+        hand and soldering iron in the other
+    title: On a scale of one
+    abstract: >
+        An architectural look at where Yuppiechef has come from and how we're dealing
+        with our scaling requirements - what worked and, more entertainingly, what
+        crashed and burned.
+    slides: 
+    video: 
+
   beat_schwegler:
     name: Beat Schwegler
     company: Microsoft
@@ -392,7 +413,7 @@ speakers:
 
 
 all_speakers_archive: [ beat_schwegler, dale_humby, daniel_fiske, daniel_schauenberg, david_tinker, mike_jones, miles_ward, neil_blakey_milner, patrick_turley, peter_lockhart, robert_stuttaford, simon_ratcliffe ]
-all_speakers: [  ]
+all_speakers: [ beat_schwegler,  deon_moolman]
 highlighted: [  ]
 nonhighlighted: [  ]
 sponsors:
